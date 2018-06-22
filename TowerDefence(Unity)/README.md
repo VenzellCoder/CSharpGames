@@ -5,12 +5,12 @@
 
 Редактор волн для редактирования волн
 
-<img src="/pics/TD_1.gif" alt="game pic"/>
+<img src="/pics/TowerDefence(Unity)/TD_1.gif" alt="game pic"/>
 
 ## Игровой процесс 
 
 Классичейский tower defence 
 
-<img src="/pics/TD_2.gif" alt="game pic"/>
+<img src="/pics/TowerDefence(Unity)/TD_2.gif" alt="game pic"/>
 
 
